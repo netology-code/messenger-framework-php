@@ -1,0 +1,17 @@
+{
+  "name": "neto/messenger-framework",
+  "authors": [
+    {
+      "name": "Dima Fitiskin",
+      "email": "dfitiskin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Neto\\Messenger\\": "src"
+    }
+  },
+  "require": {
+    "facebook/graph-sdk": "^5.4"
+  }
+}
